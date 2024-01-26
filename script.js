@@ -22,7 +22,7 @@ gen = {
     //# er verbs
     "ais,ais,ait,ions,iez,aient".split(","),
     //# ir verbs
-    "issais,issais,issait,issions,issiez,issaient".split(","),
+    "ais,ais,ait,ions,iez,aient".split(","),
     //# re verbs
     "ais,ais,ait,ions,iez,aient".split(",")
   ],
@@ -30,11 +30,11 @@ gen = {
   "cond": [
     //# je, tu, il, nous, vous, ils
     //# er verbs
-    "erais,erais,erait,erions,eriez,eraient".split(","),
+    "ais,ais,ait,ions,iez,aient".split(","),
     //# ir verbs
-    "irais,irais,irait,irions,iriez,iraient".split(","),
+    "ais,ais,ait,ions,iez,aient".split(","),
     //# re verbs
-    "rais,rais,rait,rions,riez,raient".split(",")
+    "ais,ais,ait,ions,iez,aient".split(",")
   ]
 }
 
